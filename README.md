@@ -1,12 +1,9 @@
-# YouTube Clone
+# Spring Boot / Java / Postgres / JWT 
 
-A clone of YouTube (with minimal functionality) for learning and recreational purposes.
+Boilerplate application implementing authentication via JWT in Spring Boot. 
 
-Features planned:
-
-* Create Account
-* Uploading Videos
-  * Storage externally (Amazon S3)
-* Comment on videos
-* Rate Videos
-
+* Java
+* Spring Boot
+* Auth
+* JWT
+* Postgres
